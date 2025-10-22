@@ -3,7 +3,9 @@
 Please submit bug reports, suggestions and pull requrests to the [GitHub issue tracker](URL).
 We're particularly interested in fixing edge-cases, expanding test coverage and updating translations.
 
-`git remote set-url upstream https://github.com/PHPMailer.PHPMailer.git`
+```
+git remote set-url upstream https://github.com/PHPMailer.PHPMailer.git
+```
 Please *don't* use the SourceForge or Google Code projects any more; they are obsolete and no longer maintained.
 
 # History
